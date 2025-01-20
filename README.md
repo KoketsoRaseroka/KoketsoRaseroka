@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on expanding my knowledge on creating web code<br>👯 I’m looking to work for a tech company to expand my developer skills <br>🤝 I’m looking for  an opportunity to show case my skills <br>🌱 I’m currently a BSc IT : Software Engineering Student<br>💬 Ask me about anything Java and web development related<br>⚡ Fun fact -I love challenges
+🔭 I’m currently working on expanding my knowledge on creating web code<br>👯 I’m looking to work for a tech company to expand my developer skills <br>🤝 I’m looking for  an opportunity to show case my skills <br>🌱 I’m a recent BSc IT : Software Engineering Graduate <br>💬 Ask me about anything Java and web development related<br>⚡ Fun fact -I love challenges
 
 
 ## 🌐 Socials:
